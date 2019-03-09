@@ -1,5 +1,5 @@
 # hello-world
-Just a test
+Just a coś
 
 Cześć cześć siemanko, to tylko takie próby.
 Zignorować
